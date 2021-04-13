@@ -61,4 +61,4 @@ I would really love to build more complex layouts with CSS Grid, I look forward 
 
 - Website - (https://www.linkedin.com/in/emate-victor/)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/ejiroematev)
-- Twitter - [@yourusername](https://twitter.com/ematevic)
+- Twitter - (https://twitter.com/ematevic)
